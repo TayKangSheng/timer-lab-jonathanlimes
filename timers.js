@@ -1,1 +1,4 @@
-// your code here:
+
+
+
+// Insert DOM Loaded function to call the function
